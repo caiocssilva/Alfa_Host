@@ -18,3 +18,4 @@ Essa página web simula uma página inicial de um site para um serviço de hospe
 # Tecnologias Ultilizadas
 - HTML5
 - CSS3 
+- RESPONSIVIDADE
