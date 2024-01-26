@@ -22,4 +22,4 @@ Essa página web simula uma página inicial de um site para um serviço de hospe
 - GIT
 - GITHUB
 
-Acesse o projeto: https://caiocssilva.github.io/Alfa_Host/
+Acesse a página: https://caiocssilva.github.io/Alfa_Host/
