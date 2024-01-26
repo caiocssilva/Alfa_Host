@@ -19,3 +19,5 @@ Essa página web simula uma página inicial de um site para um serviço de hospe
 - HTML5
 - CSS3 
 - RESPONSIVIDADE
+- GIT
+- GITHUB
