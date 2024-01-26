@@ -14,3 +14,7 @@ Essa página web simula uma página inicial de um site para um serviço de hospe
 6. Seção de Contato: Um formulário para os visitantes enviarem mensagens, com campos para nome, e-mail e mensagem.
 
 7. Rodapé: Com um aviso de copyright indicando "Alfa Host @ 2024".
+
+# Tecnologias Ultilizadas
+- HTML5
+- CSS3 
