@@ -320,7 +320,7 @@ footer {
 }
 
 /* tablet 900px */
-@media (nax-width: 900px) {
+@media (max-width: 900px) {
     .main-banner p {
         padding: 0 6rem;
     }
